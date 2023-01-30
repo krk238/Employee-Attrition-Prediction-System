@@ -1,0 +1,2 @@
+# Employee-Attrition-Prediction-System
+The repository contains an artificial neural network that predicts whether an employee will attrite from a company or not. It employs an artificial neural network against a csv file of 48,533 data points to create an algorithm that accomplishes this prediction. We utilize Pandas libraries along with TensorFlow to utilize AI libraries to preprocess the data and assemble the neural network. 
